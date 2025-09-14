@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ3ZGZ4MW43eHg2Zzc4M2k4aXIzcTh1aW00NmN1b210ZGZvMm8yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vu7FU5T4RJPo1esgna/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-hamza-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hamza-khan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-kaif01&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-kaif01" /> </p>
 
 - 🔭 I’m currently Studing Computer Science Engineering **From Integral University Lucknow**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-hamza-khan-89540b219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-hamza-khan-89540b219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-kaif01-89540b219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-kaif01-89540b219" height="30" width="40" /></a>
 <a href="https://instagram.com/heyy_kai_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohd kaif" height="30" width="40" /></a>
 </p>
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-kaif01&show_icons=true&locale=en&layout=compact" alt="mohd-kaif01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-hamza-khan&show_icons=true&locale=en" alt="mohd-hamza-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-kaif01&show_icons=true&locale=en" alt="mohd-kaif01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-kaif&" alt="mohd-kaif" /></p>
