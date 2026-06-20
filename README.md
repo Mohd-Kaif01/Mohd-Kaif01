@@ -1,17 +1,17 @@
 <img align="center" alt="coding" width="1080" src="banner.jpg">
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ3ZGZ4MW43eHg2Zzc4M2k4aXIzcTh1aW00NmN1b210ZGZvMm8yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vu7FU5T4RJPo1esgna/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-kaif01&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-kaif01" /> </p>
 
 - 🔭 I’m currently Studing Computer Science Engineering **From Integral University Lucknow**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 🤝 I’m looking for help with **AI Automation**
 
-- 💬 Ask me about **Python, Web Developement, Django, SQL, NOSQL, AI/ML**
+- 💬 Ask me about **Data Visualization, Web Scraping, EDA, Python, SQL, MS Excel, Power BI**
 
 - 📫 How to reach me **khankaif66115@gmail.com**
 
